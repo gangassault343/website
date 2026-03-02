@@ -1,5 +1,5 @@
 <?php 
-//Databse Connection file
+//Databse Connection filee
 include('db-test.php');
 if(isset($_POST['submit']))
   {
