@@ -78,7 +78,7 @@ if(isset($_POST['submit']))
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">   
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.min.css">
  
-  <!-------gallery----->
+  <!-------gallery------>
 
 </head>
 
