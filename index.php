@@ -3,7 +3,7 @@
 include('db-test.php');
 if(isset($_POST['submit']))
   {
-        //getting the post valuess
+        //getting the post values
     $name=$_POST['name'];
     $email=$_POST['email'];
     $contno=$_POST['contactno'];
